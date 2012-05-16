@@ -1,6 +1,6 @@
 <!-- vim: set ft=pandoc: -->
 
-# Tomb
+# Sarcophagus
 
 Similar to [boom](https://github.com/holman/boom), except that it:
 
